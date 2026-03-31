@@ -16,10 +16,10 @@ author_profile: https://github.com/anirudhprasad-sap
 
 ## Prerequisites
 
-- You've configured the respective entitlements, enabled the Kyma runtime in your SAP BTP subaccount, and created an SAP HANA Cloud service instance in the SAP BTP cockpit. Follow the steps in the [Prepare for Deployment](cap-operator-01-prepare) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
-- You've installed all the required tools. Follow the steps in the [Install Tools for Deployment](cap-operator-02-tools) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
-- You've enabled the CAP Operator community module in your Kyma cluster. Follow the steps in the [Enable CAP Operator Community Module](cap-operator-03-add-cap-operator) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
-- You've prepared your multi-tenant application for deployment. Follow the steps in the [Prepare Multi-Tenant Applications for Deployment with CAP Operator](cap-operator-04-prepare-app) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
+- You've configured the respective entitlements, enabled the Kyma runtime in your SAP BTP subaccount, and created an SAP HANA Cloud service instance in the SAP BTP cockpit. Follow the steps in the [Prepare for Deployment](cap-operator-01-prepare) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
+- You've installed all the required tools. Follow the steps in the [Install Tools for Deployment](cap-operator-02-tools) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
+- You've enabled the CAP Operator community module in your Kyma cluster. Follow the steps in the [Enable CAP Operator Community Module](cap-operator-03-add-cap-operator) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
+- You've prepared your multi-tenant application for deployment. Follow the steps in the [Prepare Multi-Tenant Applications for Deployment with CAP Operator](cap-operator-04-prepare-app) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
 
 ### Add CAP Operator Helm chart
 

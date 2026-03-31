@@ -16,7 +16,7 @@ author_profile: https://github.com/anirudhprasad-sap
 
 ## Prerequisites
 
-- You've deployed the application. Follow the steps in the [Deploy your Application using CAP Operator](cap-operator-05-deploy-app) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
+- You've deployed the application. Follow the steps in the [Deploy your Application using CAP Operator](cap-operator-05-deploy-app) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
 - You're an administrator of the global account in SAP BTP.
 
 ### Create new subaccount

@@ -1,5 +1,5 @@
 ---
-title: Prepare for Deployment
+title: Setting Up SAP BTP and Kyma Runtime for Deployment
 description: Learn how to set up the SAP BTP, Kyma runtime for deploying the application.
 parser: v2
 auto_validation: true
@@ -15,7 +15,6 @@ author_profile: https://github.com/anirudhprasad-sap
 - How to configure entitlements.
 - How to enable the SAP BTP Kyma runtime in your subaccount in SAP BTP.
 - How to create an SAP HANA Cloud service instance in the SAP BTP cockpit.
-- How to enable the CAP Operator community module in your Kyma cluster.
 
 ## Prerequisites
 

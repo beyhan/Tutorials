@@ -16,8 +16,8 @@ author_profile: https://github.com/anirudhprasad-sap
 
 ## Prerequisites
 
-- You've configured the respective entitlements, enabled the Kyma runtime in your SAP BTP subaccount, and created an SAP HANA Cloud service instance in the SAP BTP cockpit. Follow the steps in the [Prepare for Deployment](cap-operator-01-prepare) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
-- You've installed all the required tools. Follow the steps in the [Install Tools for Deployment](cap-operator-02-tools) tutorial that is part of the [Application Lifecycle Management using CAP Operator](<TODO>) tutorial group.
+- You've configured the respective entitlements, enabled the Kyma runtime in your SAP BTP subaccount, and created an SAP HANA Cloud service instance in the SAP BTP cockpit. Follow the steps in the [Prepare for Deployment](cap-operator-01-prepare) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
+- You've installed all the required tools. Follow the steps in the [Install Tools for Deployment](cap-operator-02-tools) tutorial that is part of the [Application Lifecycle Management using CAP Operator](group.kyma-cap-operator-lifecycle) tutorial group.
 
 ### Download and set up the project locally
 
