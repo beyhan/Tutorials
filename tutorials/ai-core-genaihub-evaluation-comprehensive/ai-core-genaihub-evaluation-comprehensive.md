@@ -19,15 +19,30 @@ It extends the Quick Start tutorial and is intended for Application Developers a
 - How to analyze and interpret aggregated evaluation results.
 
 ## Prerequisites
-
-- Setup Environment:
-Ensure your instance and AI Core credentials are properly configured according to the steps provided in the initial tutorial
-- Orchestration Deployment:
-Ensure at least one orchestration deployment is ready to be consumed during this process. 
+1. **BTP Account**  
+   Set up your SAP Business Technology Platform (BTP) account.  
+   [Create a BTP Account](https://developers.sap.com/group.btp-setup.html)
+2. **For SAP Developers or Employees**  
+   Internal SAP stakeholders should refer to the following documentation: [How to create BTP Account For Internal SAP Employee](https://me.sap.com/notes/3493139), [SAP AI Core Internal Documentation](https://help.sap.com/docs/sap-ai-core)
+3. **For External Developers, Customers, or Partners**  
+   Follow this tutorial to set up your environment and entitlements: [External Developer Setup Tutorial](https://developers.sap.com/tutorials/btp-cockpit-entitlements.html), [SAP AI Core External Documentation](https://help.sap.com/docs/sap-ai-core?version=CLOUD)
+4. **Create BTP Instance and Service Key for SAP AI Core**  
+   Follow the steps to create an instance and generate a service key for SAP AI Core:  
+   [Create Service Key and Instance](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/create-service-key?version=CLOUD)
+5. **AI Core Setup Guide**  
+   Step-by-step guide to set up and get started with SAP AI Core:  
+   [AI Core Setup Tutorial](https://developers.sap.com/tutorials/ai-core-setup.html)
+6. An Extended SAP AI Core service plan is required, as the Generative AI Hub is not available in the Free or Standard tiers. For more details, refer to 
+[SAP AI Core Service Plans](https://help.sap.com/docs/sap-ai-core/sap-ai-core-service-guide/service-plans?version=CLOUD)
+7. **Orchestration Deployment**
+   Ensure at least one orchestration deployment is ready to be consumed during this process. 
 Refer to [this tutorial understand the basic consumption of GenAI models using orchestration.](https://developers.sap.com/tutorials/ai-core-orchestration-consumption.html)
-- Basic Knowledge: Familiarity with the orchestration workflow is recommended
-- Install Dependencies: Install the required Python packages using the requirements.txt file provided.
+8. **Basic Knowledge**
+    Familiarity with the orchestration workflow is recommended
+9. **Install Dependencies**
+    Install the required Python packages using the requirements.txt file provided.
 Download [requirements.txt](img/requirements.txt)
+
 💡 Right-click the link above and choose **"Save link as..."** to download it directly.
 
 ## Pre-Read
